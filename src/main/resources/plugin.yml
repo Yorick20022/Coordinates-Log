@@ -1,0 +1,4 @@
+name: CoordsLog
+version: '${project.version}'
+main: CoordsLog.CoordsLog.CoordsLog
+api-version: 1.19
