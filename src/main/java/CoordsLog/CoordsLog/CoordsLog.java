@@ -7,7 +7,7 @@ public final class CoordsLog extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getServer().getPluginManager().registerEvents(new locationListener(), this);
+        getServer().getPluginManager().registerEvents(new LocationListener(), this);
     }
 
     @Override
